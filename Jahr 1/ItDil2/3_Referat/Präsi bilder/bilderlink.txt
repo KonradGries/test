@@ -1,0 +1,11 @@
+Startseite	https://media.nbb-cdn.de/images/products/400000/400416/Asus_ROG_Strix_Z390-F_Gaming_01.jpg?size=2800 
+		https://heise.cloudimg.io/width/1651/q75.png-lossy-75.webp-lossy-75.foil1/_www-heise-de_/imgs/18/2/8/3/5/4/3/2/ASRock_Rack_X570D4I-2T_2-02eba6c7caaca22a.jpeg
+systembus	https://www.elektronik-kompendium.de/sites/com/bilder/03092211.gif
+		https://de.wikipedia.org/wiki/Bus_(Datenverarbeitung)#Steuerbus_(Kontrollbus)
+pci		https://tse1.mm.bing.net/th?id=OIP.N0l4h01S0bVs-ETZ5LInnQHaFc&pid=Api
+		https://media.fs.com/images/community/upload/wangEditor/201912/30/_1577696037_99zwUgQjV6.jpg
+bios		https://tse2.mm.bing.net/th?id=OIP._hFyGAHQsXi-bimbnjf5zAHaE3&pid=Api
+sata		https://img.kabelprofishop.de/media/image/57/e0/cd/inline-sata-strom-y-kabel-sata-buchse-an-4x-sata-stecker-gewinkelt-nfl12755.jpg
+		https://tse3.mm.bing.net/th?id=OIP.LopNzxEyGWCHm8MPBUopAQHaFc&pid=Api
+ssi		https://canal-it.ru/wp-content/uploads/2017/02/motherboard-form-factor-ssi-eeb-01.jpg
+funktionen 	https://www.pollin.de/images/1600x1200x90/I703474.1-Mainboard-ASUS-Prime-B350-Plus-AM4.jpg

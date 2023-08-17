@@ -1,0 +1,1 @@
+Get-ChildItem | Sort-Object Length |Select-Object Length,Name |export-csv dateien3.csv -Delimiter ";"

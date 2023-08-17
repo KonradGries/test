@@ -1,0 +1,204 @@
+{
+    "List":[
+        {
+        "LfNr": "1",
+        "Nachname": "Wüst",
+        "Vorname": "Christel",
+        "Geschlecht": "W",
+        "PLZ": "24409",
+        "Ort": "Stoltebüll",
+        "Strasse": "Hohenzollernstraße",
+        "Hausnummer": "79"
+        },
+        {
+            "LfNr": "2",
+            "Nachname": "Eisele",
+            "Vorname": "Nikolai",
+            "Geschlecht": "M",
+            "PLZ": "39615",
+            "Ort": "Altmärkische Wische",
+            "Strasse": "Königsberger Straße",
+            "Hausnummer": "65"
+        },
+        {
+            "LfNr": "3",
+            "Nachname": "Großmann",
+            "Vorname": "Martha",
+            "Geschlecht": "W",
+            "PLZ": "27729",
+            "Ort": "Axstedt",
+            "Strasse": "Agathastraße",
+            "Hausnummer": "53"
+        },
+        {
+            "LfNr": "4",
+            "Nachname": "Sauer",
+            "Vorname": "Elisabeth",
+            "Geschlecht": "W",
+            "PLZ": "33129",
+            "Ort": "Delbrück",
+            "Strasse": "Frankenstraße",
+            "Hausnummer": "150"
+        },
+        {
+            "LfNr": "5",
+            "Nachname": "Buchmann",
+            "Vorname": "Heiner",
+            "Geschlecht": "M",
+            "PLZ": "7819",
+            "Ort": "Geroda",
+            "Strasse": "Zum Katzbach",
+            "Hausnummer": "16"
+        },
+        {
+            "LfNr": "6",
+            "Nachname": "Knauer",
+            "Vorname": "Almuth",
+            "Geschlecht": "W",
+            "PLZ": "67823",
+            "Ort": "Obermoschel",
+            "Strasse": "Weidmühlenstraße",
+            "Hausnummer": "82"
+        },
+        {
+            "LfNr": "7",
+            "Nachname": "Scherer",
+            "Vorname": "Joel",
+            "Geschlecht": "M",
+            "PLZ": "23714",
+            "Ort": "Kirchnüchel",
+            "Strasse": "Breitenbend",
+            "Hausnummer": "96"
+        },
+        {
+            "LfNr": "8",
+            "Nachname": "Gabriel",
+            "Vorname": "Alicia",
+            "Geschlecht": "W",
+            "PLZ": "80939",
+            "Ort": "München",
+            "Strasse": "Keplerstraße",
+            "Hausnummer": "144"
+        },
+        {
+            "LfNr": "9",
+            "Nachname": "Loos",
+            "Vorname": "Patricia",
+            "Geschlecht": "W",
+            "PLZ": "67591",
+            "Ort": "Offstein",
+            "Strasse": "Antoniusstraße",
+            "Hausnummer": "106"
+        },
+        {
+            "LfNr": "10",
+            "Nachname": "Biermann",
+            "Vorname": "Patricia",
+            "Geschlecht": "W",
+            "PLZ": "79597",
+            "Ort": "Schallbach",
+            "Strasse": "Marie-Juchacz-Straße",
+            "Hausnummer": "187"
+        },
+        {
+            "LfNr": "11",
+            "Nachname": "Schütze",
+            "Vorname": "Gabi",
+            "Geschlecht": "W",
+            "PLZ": "1561",
+            "Ort": "Thiendorf",
+            "Strasse": "Breitenbend",
+            "Hausnummer": "102"
+        },
+        {
+            "LfNr": "12",
+            "Nachname": "Müller",
+            "Vorname": "Steffi",
+            "Geschlecht": "W",
+            "PLZ": "99198",
+            "Ort": "Ollendorf",
+            "Strasse": "Neumann-Neander-Straße",
+            "Hausnummer": "49"
+        },
+        {
+            "LfNr": "13",
+            "Nachname": "Wendel",
+            "Vorname": "Maren",
+            "Geschlecht": "W",
+            "PLZ": "83410",
+            "Ort": "Laufen",
+            "Strasse": "Möschengasse",
+            "Hausnummer": "71"
+        },
+        {
+            "LfNr": "14",
+            "Nachname": "Heidrich",
+            "Vorname": "Patricia",
+            "Geschlecht": "W",
+            "PLZ": "87549",
+            "Ort": "Rettenberg",
+            "Strasse": "Arnoldsweilerweg",
+            "Hausnummer": "27"
+        },
+        {
+            "LfNr": "15",
+            "Nachname": "Pilz",
+            "Vorname": "Erhard",
+            "Geschlecht": "M",
+            "PLZ": "25832",
+            "Ort": "Tönning",
+            "Strasse": "Arnoldsweilerweg",
+            "Hausnummer": "165"
+        },
+        {
+            "LfNr": "16",
+            "Nachname": "David",
+            "Vorname": "Carola",
+            "Geschlecht": "W",
+            "PLZ": "10829",
+            "Ort": "Berlin",
+            "Strasse": "Poliusstraße",
+            "Hausnummer": "120"
+        },
+        {
+            "LfNr": "17",
+            "Nachname": "Weiß",
+            "Vorname": "Dorothea",
+            "Geschlecht": "W",
+            "PLZ": "8223",
+            "Ort": "Grünbach",
+            "Strasse": "Meroder Straße",
+            "Hausnummer": "126"
+        },
+        {
+            "LfNr": "18",
+            "Nachname": "Börner",
+            "Vorname": "Bastian",
+            "Geschlecht": "M",
+            "PLZ": "54441",
+            "Ort": "Ayl",
+            "Strasse": "Kirchstraße",
+            "Hausnummer": "171"
+        },
+        {
+            "LfNr": "19",
+            "Nachname": "Philipp",
+            "Vorname": "Ellen",
+            "Geschlecht": "W",
+            "PLZ": "67808",
+            "Ort": "Schönborn",
+            "Strasse": "Moselstraße",
+            "Hausnummer": "109"
+        },
+        {
+            "LfNr": "20",
+            "Nachname": "Schweizer",
+            "Vorname": "Anita",
+            "Geschlecht": "W",
+            "PLZ": "21444",
+            "Ort": "Vierhöfen",
+            "Strasse": "Damaschkestraße",
+            "Hausnummer": "102"
+        }
+    ]
+}

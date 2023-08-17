@@ -1,0 +1,22 @@
+import RPi.GPIO as gpio
+import time
+gpio.setmode(gpio.BOARD)
+gpio.setup(36,gpio.OUT)
+gpio.setup(38,gpio.OUT)
+gpio.setup(40,gpio.OUT)
+for i in range(3):
+    gpio.output(36,gpio.HIGH)
+    time.sleep(1)
+    gpio.output(38,gpio.HIGH)
+    time.sleep(1)
+    gpio.output(36,gpio.LOW)
+    gpio.output(38,gpio.LOW)
+    gpio.output(40,gpio.HIGH)
+    time.sleep(3)
+    gpio.output(40,gpio.LOW)
+    gpio.output(38,gpio.HIGH)
+    time.sleep(1)
+    gpio.output(38,gpio.LOW)
+    gpio.output(36,gpio.HIGH)
+    time.sleep(3)
+gpio.cleanup()

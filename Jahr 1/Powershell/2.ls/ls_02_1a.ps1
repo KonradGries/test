@@ -1,0 +1,1 @@
+Get-Service | Where-Object {$_.name -like "s*"} |Where-Object {$_.Status -like "running"} 

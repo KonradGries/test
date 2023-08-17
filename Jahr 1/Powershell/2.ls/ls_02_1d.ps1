@@ -1,0 +1,1 @@
+Get-ChildItem C:\Windows |Where-Object {$_.name -like "*.exe"} |Sort-Object Length -Descending | Select-Object Length,Name|Measure-Object Length -Max -Min -Sum -Average 

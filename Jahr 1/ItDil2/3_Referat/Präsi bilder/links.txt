@@ -1,0 +1,8 @@
+		https://whatis.techtarget.com/de/definition/CPU
+systembus	https://www.elektronik-kompendium.de/sites/com/0309221.htm
+		https://de.wikipedia.org/wiki/Systembus
+		https://de.wikipedia.org/wiki/Bus_(Datenverarbeitung)
+pci		https://www.pc-magazin.de/ratgeber/pci-sata-co-alles-ueber-schnittstellen-1323642.html
+		https://de.wikipedia.org/wiki/PCI_Express
+sata 		https://www.elektronik-kompendium.de/sites/com/0808061.htm
+formafaktor	https://www.com-magazin.de/img/1/0/4/5/7/9/mainboards-aufmacher_w800_h459.jpg

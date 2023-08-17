@@ -1,0 +1,12 @@
+Firma;StraßeHausnummer;PLZ;Ort;Telefonnummer;Ansprechpartner;Anrede
+Elektro - Install. Unkelbach;Trierer Str. 368;52078;Aachen;0241 52 32 45;Andrea Hagebau;Frau
+Ergotherapie m.a.r.c. Reha;Freunder Landstr. 54;52078;Aachen;0241 52 20 32;A. Müller;Herr
+A.C.M. GmbH;Zeppelinstr. 68-78;52068;Aachen;0241 1 60 62 11;Muck;Frau
+A.C.M. GmbH;Zeppelinstr. 68-78;52068;Aachen;0241 1 60 62 66;Meier;Herr
+A.M.I. Umwelt- u. Förderteam;Philipsstr. 8;52068;Aachen;0241 5 59 08 65;Mück;Frau
+A.M.Z. Auto-Motor-Zubehör;Lukasstr. 12;52070;Aachen;0241 15 50 31;Alex Frieden;Dr.
+A.N.M. Betriebsgesellschaft;Eisenbahnweg 6;52068;Aachen;0241 5 89 14;Peter Lustig;Herr
+A.N.M. Betriebsgesellschaft;Eisenbahnweg 6;52068;Aachen;0241 87 67 19;Rudi Ratlos;Herr
+Architekten W. Lewitzki;Robensstr. 57;52070;Aachen;0241 15 15 75;;
+Bach M. GmbH;Jülicher Str. 236-242;52070;Aachen;0241 9 38 83-0;;
+Peters GmbH;Jülicher Str. 236-242;52070;Aachen;0241 9 77-0;;

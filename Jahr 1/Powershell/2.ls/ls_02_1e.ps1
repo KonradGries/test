@@ -1,0 +1,1 @@
+Get-Process |Sort-Object CPU -Descending  |Select-Object Id,ProcessName,CPU -First 10 |ConvertTo-Html |Out-File Cpu-Zeit.html
