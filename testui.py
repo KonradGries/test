@@ -24,3 +24,4 @@ except KeyboardInterrupt:# mit strg + c stop
 
 p.stop()
 GPIO.cleanup()
+#JP ist ein super leherer
